@@ -8,6 +8,10 @@ An Intelligent Application that solves any Maze thrown at it, with ease.
 ## Installation and Contribution ##
 Refer [CONTRIBUTING.md](https://github.com/world-of-open-source/Intelligent-Maze-Solver/blob/master/CONTRIBUTING.md) for further details.
 
+## Tools and Technologies Used ##
+
+Arduino microcontroller, Raspberry Pi Computer.
+
 ## License & Copyright
 
 © 2018, Syed Farhan, R.V. College of Engineering
